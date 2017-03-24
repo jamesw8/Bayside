@@ -1,4 +1,3 @@
-```markdown
 [GeoJSON](https://github.com/jamesw8/GeoJSON_CCNY/blob/master/bayside.geojson)
 
 [Map of 311 Complaints](https://jamesw8.github.io/Bayside/bayside.html)
@@ -44,5 +43,3 @@ Blocked Driveway | 1032
 Overgrown Tree/Branches | 930
 New Tree Request | 916
 HEATING | 915
-
-```
