@@ -1,6 +1,15 @@
 [GeoJSON](https://github.com/jamesw8/GeoJSON_CCNY/blob/master/bayside.geojson)
 
-[Map of 311 Complaints](https://jamesw8.github.io/Bayside/bayside.html))
+[Map of 311 Complaints](https://jamesw8.github.io/Bayside/bayside.html)
+
+### Demographics
+
+43,808 Total (2010) NYC Census FactFinder White nonhispanic 46.9%
+Black/African American nonhispanic 2.6% Asian nonhispanic 37.3%
+Some other race nonhispanic 0.3% Nonhispanic of two or more races 1.3% Hispanic origin 11.6%
+Distance to Empire State Building: 12.3 miles Distance to Federal Hall: 14.1 miles
+
+
 You can use the [editor on GitHub](https://github.com/jamesw8/neighborhoodProject/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
