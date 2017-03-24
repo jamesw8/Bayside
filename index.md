@@ -1,4 +1,5 @@
 [GeoJSON](https://github.com/jamesw8/GeoJSON_CCNY/blob/master/bayside.geojson)
+
 [Map of 311 Complaints](https://jamesw8.github.io/Bayside/bayside.html))
 You can use the [editor on GitHub](https://github.com/jamesw8/neighborhoodProject/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
