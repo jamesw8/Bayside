@@ -1,4 +1,4 @@
-![Picture of Bayside](http://image.prntscr.com/image/f2861c65ed854c18a5076f8ea4d9682b.png)
+![Picture of Bayside](https://raw.githubusercontent.com/jamesw8/Bayside/master/baysidepic.png)
 
 [GeoJSON](https://github.com/jamesw8/GeoJSON_CCNY/blob/master/bayside.geojson)
 
