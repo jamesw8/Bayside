@@ -1,3 +1,5 @@
+![Picture of Bayside](http://image.prntscr.com/image/f2861c65ed854c18a5076f8ea4d9682b.png)
+
 [GeoJSON](https://github.com/jamesw8/GeoJSON_CCNY/blob/master/bayside.geojson)
 
 [Map of 311 Complaints](https://jamesw8.github.io/Bayside/bayside.html)
